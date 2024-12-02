@@ -158,4 +158,4 @@ Include tests to validate the model and app behavior:
 ---
 
 ![App Screenshot](rice_1.png)
-![App Screenshot](rice_leaf12.jpg)
+![App Screenshot](rice_2.png)
