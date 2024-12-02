@@ -157,9 +157,5 @@ Include tests to validate the model and app behavior:
 
 ---
 
-### **5. Example Screenshots**
-Include screenshots in the `README.md` to attract attention:
-- App interface showing an uploaded image and prediction result.
-- Training and evaluation metrics (e.g., accuracy and loss plots).
-
----
+![App Screenshot](rice_1.png)
+![App Screenshot](rice_2.png)
